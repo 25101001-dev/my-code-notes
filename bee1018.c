@@ -6,7 +6,8 @@ int main() {
     int banknotes[] ={100, 50, 20, 10, 5, 2, 1};
     
     scanf("%d",&a);
-    printf("%d",a);
+    printf("%d\n
+     ",a);
     
     for(i = 0 ; i < 7 ; i++){
         notes = a / banknotes[i];
