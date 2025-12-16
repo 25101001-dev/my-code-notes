@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int N, hours,minutes,seconds;
     scanf("%d",&N);
     
