@@ -5,7 +5,6 @@ using namespace std;
 int main() {
     double a, rate;
     cin >> a;
-
     if (a >= 0.00 && a <= 400.00) {
         rate = 0.15;
     } else if (a <= 800.00) { 
