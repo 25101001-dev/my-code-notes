@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int a,i,notes;
     int banknotes[] ={100, 50, 20, 10, 5, 2, 1};
     
