@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int i_h, i_m, f_h, f_m, duration;
     cin >> i_h >> i_m >> f_h >> f_m;
-    
+
     int total_start = i_h*60 + i_m;
     int total_end = f_h*60 + f_m;
     
