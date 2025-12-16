@@ -4,7 +4,7 @@ using namespace std;
 int main() {
   int start, end, duration;
   cin >> start >> end ;
-  
+
   if(start == end){
       duration = 24;
   }
