@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
-    
     double const pi = 3.14159;
     double a,b,c;
     double d,e,f,g,h;
