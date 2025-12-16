@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     float a,b,c,d,avg,avg2,exam;
     scanf("%f %f %f %f",&a,&b,&c,&d);
     
