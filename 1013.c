@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 int main() {
- 
     int a,b,c,d,e;
     
     scanf("%lf %lf %lf",&a,&b,&c);
