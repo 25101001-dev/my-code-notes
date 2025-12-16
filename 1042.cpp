@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int a, b, c;
     cin >> a >> b >> c;
-    
+
     int original[3] = {a, b, c};
     
     int num[3] = {a, b, c};
