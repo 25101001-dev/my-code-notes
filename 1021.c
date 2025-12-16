@@ -4,7 +4,6 @@ int main() {
     float n;
     int i, j, note, coin;
     scanf("%f", &n);
-
     int banknote[10] = {100, 50, 20, 10, 5, 2};
     int bankcoin[10] = {100, 50, 25, 10, 5, 1};
 
