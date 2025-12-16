@@ -3,7 +3,6 @@
 using namespace std;
  
 int main() {
- 
     string word[3];
     for(int i = 0; i < 3; i++) {
         cin >> word[i];
