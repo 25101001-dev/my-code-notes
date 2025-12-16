@@ -1,7 +1,6 @@
 #include <stdio.h>
- 
+
 int main() {
- 
     int a,b;
     double c,SALARY;
     scanf("%d",&a);
