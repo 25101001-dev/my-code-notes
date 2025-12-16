@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     double a, b, c;
     cin >> a >> b >> c;
-    
+
     double sides[3] = {a, b, c};
     sort(sides, sides + 3, greater<double>());
     a = sides[0]; b = sides[1]; c = sides[2]; 
