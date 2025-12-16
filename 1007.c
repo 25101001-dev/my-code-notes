@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int a,b,c,d,DIFERENCA;
     scanf("%d",&a);
     scanf("%d",&b);
