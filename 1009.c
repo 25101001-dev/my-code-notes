@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     char a[50];
     double b,c,TOTAL ;
     scanf("%s",&a);
