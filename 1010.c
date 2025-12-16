@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int a1,b1,a2,b2;
     double c1,c2,TOTAL ;
     
