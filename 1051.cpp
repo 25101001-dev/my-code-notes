@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     float salary, tax;
     cin >> salary;
-    
+
     if (salary <= 2000.00) {
         cout << "Isento" << endl;
     }
