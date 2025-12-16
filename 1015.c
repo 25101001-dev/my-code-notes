@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
- 
     double a1,b1,a2,b2,distance,c,d;
     
     scanf("%lf %lf",&a1,&b1);
