@@ -1,7 +1,6 @@
 #include <stdio.h>
  
 int main() {
-    
     int r;
     double const pi = 3.14159;
     double VOLUME;
