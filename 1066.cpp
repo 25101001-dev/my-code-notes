@@ -2,6 +2,7 @@
 using namespace std;
  
 int main() {
+ 
     int num[5], even = 0, odd = 0, positive = 0, negitive = 0;
     for(int i = 0; i < 5;i++){
         cin >> num[i];
