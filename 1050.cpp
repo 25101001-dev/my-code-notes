@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int ddd;
     cin >> ddd;
-    
+
     if (ddd == 11) cout << "Sao Paulo" << endl;
     else if (ddd == 19) cout << "Campinas" << endl;
     else if (ddd == 21) cout << "Rio de Janeiro" << endl;
